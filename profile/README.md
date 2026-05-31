@@ -1,6 +1,6 @@
-### 👋 Welcome to Memoh!
+### 👋 Welcome to Felinic!
 
-**Memoh** (/ˈmemoʊ/) is a multi-member, structured long-memory, containerized AI agent system. Create your own AI bots, chat with them via Telegram, Lark (Feishu), or Web. Each bot runs in an isolated container with its own memory system — able to edit files, run commands, and access the network.
+We are a team concentrate on building and creating with heart and Neko. Welcome to try our works out!
 
 ### ✨ Projects we are working on
 
